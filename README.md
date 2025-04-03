@@ -26,7 +26,7 @@ Bem-vindo ao **Formulários Unificados**! Este projeto centraliza três formulá
 
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/CBJR69/formularios-unificados.git
+   git clone https://github.com/CBJR69/form-unificados.git
    ```
 2. Abra o arquivo `index.html` no navegador e escolha o formulário desejado! 🚀
 
